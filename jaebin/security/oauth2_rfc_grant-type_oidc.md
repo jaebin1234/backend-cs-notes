@@ -1,7 +1,3 @@
-파일명 예시: `cs/security/oauth2-oidc-overview.md`
-
----
-
 # OAuth 2.0 개요
 
 ## OAuth 2.0이란?
