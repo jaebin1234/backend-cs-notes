@@ -1,4 +1,4 @@
-# api-gateway-spring-cloud-gateway.md
+# api_gateway_spring_cloud_gateway.md
 
 ## 개요
 

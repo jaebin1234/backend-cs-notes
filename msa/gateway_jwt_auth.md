@@ -1,4 +1,4 @@
-# gateway-jwt-auth.md
+# gateway_jwt_auth.md
 
 ## 개요
 

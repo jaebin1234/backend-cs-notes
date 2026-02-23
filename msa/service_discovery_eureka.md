@@ -1,4 +1,4 @@
-# service-discovery-eureka-basic.md
+# service_discovery_eureka.md
 
 ## 개요
 

@@ -1,4 +1,4 @@
-# distributed-tracing.md
+# distributed_tracing.md
 
 ## 개요
 
