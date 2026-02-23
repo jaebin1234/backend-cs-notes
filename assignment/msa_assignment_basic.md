@@ -3,6 +3,7 @@
 ---
 
 ### microservice architecture
-- [microservice_architecture.md](../architecture/microservice_architecture.md)
+- [microservice_architecture.md](../msa/microservice_architecture.md)
 
-
+### spring cloud
+- [spring_cloud.md](../msa/spring_cloud.md)
